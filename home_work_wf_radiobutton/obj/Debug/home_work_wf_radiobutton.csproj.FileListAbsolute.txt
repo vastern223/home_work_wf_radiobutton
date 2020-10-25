@@ -1,0 +1,10 @@
+C:\Users\Kolotyuk\source\repos\home_work_wf_radiobutton\home_work_wf_radiobutton\obj\Debug\home_work_wf_radiobutton.csprojAssemblyReference.cache
+C:\Users\Kolotyuk\source\repos\home_work_wf_radiobutton\home_work_wf_radiobutton\obj\Debug\home_work_wf_radiobutton.Form1.resources
+C:\Users\Kolotyuk\source\repos\home_work_wf_radiobutton\home_work_wf_radiobutton\obj\Debug\home_work_wf_radiobutton.Properties.Resources.resources
+C:\Users\Kolotyuk\source\repos\home_work_wf_radiobutton\home_work_wf_radiobutton\obj\Debug\home_work_wf_radiobutton.csproj.GenerateResource.cache
+C:\Users\Kolotyuk\source\repos\home_work_wf_radiobutton\home_work_wf_radiobutton\obj\Debug\home_work_wf_radiobutton.csproj.CoreCompileInputs.cache
+C:\Users\Kolotyuk\source\repos\home_work_wf_radiobutton\home_work_wf_radiobutton\bin\Debug\home_work_wf_radiobutton.exe.config
+C:\Users\Kolotyuk\source\repos\home_work_wf_radiobutton\home_work_wf_radiobutton\bin\Debug\home_work_wf_radiobutton.exe
+C:\Users\Kolotyuk\source\repos\home_work_wf_radiobutton\home_work_wf_radiobutton\bin\Debug\home_work_wf_radiobutton.pdb
+C:\Users\Kolotyuk\source\repos\home_work_wf_radiobutton\home_work_wf_radiobutton\obj\Debug\home_work_wf_radiobutton.exe
+C:\Users\Kolotyuk\source\repos\home_work_wf_radiobutton\home_work_wf_radiobutton\obj\Debug\home_work_wf_radiobutton.pdb
